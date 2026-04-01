@@ -1,15 +1,9 @@
 # Evan Lee
 
 CS @ Georgia Tech  
-Systems, ML, and real-time control  
+Systems · LLM · ML · Real-time  
 
 evanj3034@gmail.com · https://evanlee.site  
-
-## Focus
-
-- Systems and infrastructure  
-- LLM + retrieval systems  
-- ML for real-time decision systems  
 
 ## Stack
 
